@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Apache Library**
 
-- 👨‍💻 All of my projects are available at [https://ravindernandal366.github.io/portfolio/](https://ravindernandal366.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://ravindernandal366.github.io/_portfolio/](https://ravindernandal366.github.io/portfolio/)
 
 - 📫 How to reach me **ravindernandal366@gmail.com**
 
